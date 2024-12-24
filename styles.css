@@ -236,6 +236,10 @@ span {
     padding: 1rem 5%;
 }
 
+/* .skills {
+    padding: 7rem 9%;
+    background: var(--snd-bf-color);
+} */
 .skills {
     padding: 7rem 9%;
     background: var(--snd-bf-color);
